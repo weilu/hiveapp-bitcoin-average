@@ -1,0 +1,13 @@
+{
+  "name": "Bitcoin Average",
+  "description": "Ticker prices on bitcoinaverage.com",
+  "author": "Wei Lu",
+  "contact": "wei@hivewallet.com",
+  "repoURL": "",
+  "accessedHosts": [
+
+  ],
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "id": "wei-lu.bitcoin-average"
+}
