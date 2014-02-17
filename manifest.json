@@ -3,7 +3,7 @@
   "description": "Ticker prices on bitcoinaverage.com",
   "author": "Wei Lu",
   "contact": "wei@hivewallet.com",
-  "repoURL": "",
+  "repoURL": "git@github.com:weilu/hiveapp-bitcoin-average.git",
   "accessedHosts": [
 
   ],
