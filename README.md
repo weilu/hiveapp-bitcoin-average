@@ -6,17 +6,17 @@ Ticker prices on bitcoinaverage.com
 
 ### Test it in browser
 
-    cd ~ && git clone {{repo_url}}
-    cd {{project_name}}
+    cd ~ && git clone git@github.com:weilu/hiveapp-bitcoin-average.git
+    cd hiveapp-bitcoin-average
     open index.html
 
 ### Test it in Hive
 
 [Download and install](http://hivewallet.com/) Hive on your Mac OSX
 
-    cd ~ && git clone {{repo_url}}
+    cd ~ && git clone git@github.com:weilu/hiveapp-bitcoin-average.git
     cd ~/Library/Application\ Support/Hive/Applications/
-    ln -s ~/{{project_name}}/ wei-lu.bitcoin-average
+    ln -s ~/hiveapp-bitcoin-average/ wei-lu.bitcoin-average
 
 Go to Hive menu "Tools" > "Debugging Tools" > "Rebuild application list".
 
